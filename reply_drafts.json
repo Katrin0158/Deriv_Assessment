@@ -1,0 +1,52 @@
+[
+  {
+    "ticket_id": "T07",
+    "channel": "email",
+    "draft_reply": "Hello, thank you for contacting support. We have received your request and our specialist team is actively reviewing your case. Please note that resolution times may vary depending on security and verification requirements. We will follow up via email once an update is available.",
+    "citations": [
+      "KB07",
+      "KB02"
+    ],
+    "review_gate_note": "Requires human agent review before dispatch due to priority and risk level."
+  },
+  {
+    "ticket_id": "T06",
+    "channel": "chat",
+    "draft_reply": "Hello, thank you for contacting support. We have received your request and our specialist team is actively reviewing your case. Please note that resolution times may vary depending on security and verification requirements. We will follow up via email once an update is available.",
+    "citations": [
+      "KB03",
+      "KB04"
+    ],
+    "review_gate_note": "Requires human agent review before dispatch due to priority and risk level."
+  },
+  {
+    "ticket_id": "T09",
+    "channel": "email",
+    "draft_reply": "Hello, thank you for contacting support. We have received your request and our specialist team is actively reviewing your case. Please note that resolution times may vary depending on security and verification requirements. We will follow up via email once an update is available.",
+    "citations": [
+      "KB03",
+      "KB02"
+    ],
+    "review_gate_note": "Requires human agent review before dispatch due to priority and risk level."
+  },
+  {
+    "ticket_id": "T02",
+    "channel": "chat",
+    "draft_reply": "Hello, thank you for contacting support. We have received your request and our specialist team is actively reviewing your case. Please note that resolution times may vary depending on security and verification requirements. We will follow up via email once an update is available.",
+    "citations": [
+      "KB04",
+      "KB10"
+    ],
+    "review_gate_note": "Requires human agent review before dispatch due to priority and risk level."
+  },
+  {
+    "ticket_id": "T01",
+    "channel": "email",
+    "draft_reply": "Hello, thank you for contacting support. We have received your request and our specialist team is actively reviewing your case. Please note that resolution times may vary depending on security and verification requirements. We will follow up via email once an update is available.",
+    "citations": [
+      "KB01",
+      "KB03"
+    ],
+    "review_gate_note": "Requires human agent review before dispatch due to priority and risk level."
+  }
+]

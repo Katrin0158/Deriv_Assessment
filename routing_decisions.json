@@ -1,0 +1,105 @@
+[
+  {
+    "ticket_id": "T01",
+    "queues": [
+      "Payments",
+      "Compliance"
+    ],
+    "routing_rationale": "Routed based on intent 'withdrawal_issue' and risk factors.",
+    "reply_safety_label": "needs_specialist_review"
+  },
+  {
+    "ticket_id": "T02",
+    "queues": [
+      "General Support",
+      "Risk"
+    ],
+    "routing_rationale": "Routed based on intent 'login_access' and risk factors.",
+    "reply_safety_label": "needs_specialist_review"
+  },
+  {
+    "ticket_id": "T03",
+    "queues": [
+      "Compliance"
+    ],
+    "routing_rationale": "Routed based on intent 'verification_kyc' and risk factors.",
+    "reply_safety_label": "needs_specialist_review"
+  },
+  {
+    "ticket_id": "T04",
+    "queues": [
+      "Product",
+      "Engineering"
+    ],
+    "routing_rationale": "Routed based on intent 'product_behavior' and risk factors.",
+    "reply_safety_label": "needs_specialist_review"
+  },
+  {
+    "ticket_id": "T05",
+    "queues": [
+      "Privacy"
+    ],
+    "routing_rationale": "Routed based on intent 'privacy_request' and risk factors.",
+    "reply_safety_label": "needs_specialist_review"
+  },
+  {
+    "ticket_id": "T06",
+    "queues": [
+      "Payments",
+      "Compliance"
+    ],
+    "routing_rationale": "Routed based on intent 'deposit_issue' and risk factors.",
+    "reply_safety_label": "needs_specialist_review"
+  },
+  {
+    "ticket_id": "T07",
+    "queues": [
+      "Compliance",
+      "Risk"
+    ],
+    "routing_rationale": "Routed based on intent 'account_restriction' and risk factors.",
+    "reply_safety_label": "needs_legal_or_compliance_review"
+  },
+  {
+    "ticket_id": "T08",
+    "queues": [
+      "General Support"
+    ],
+    "routing_rationale": "Routed based on intent 'statement_export' and risk factors.",
+    "reply_safety_label": "safe_to_send_after_review"
+  },
+  {
+    "ticket_id": "T09",
+    "queues": [
+      "Payments",
+      "Compliance"
+    ],
+    "routing_rationale": "Routed based on intent 'deposit_issue' and risk factors.",
+    "reply_safety_label": "needs_specialist_review"
+  },
+  {
+    "ticket_id": "T10",
+    "queues": [
+      "Compliance"
+    ],
+    "routing_rationale": "Routed based on intent 'verification_kyc' and risk factors.",
+    "reply_safety_label": "needs_specialist_review"
+  },
+  {
+    "ticket_id": "T11",
+    "queues": [
+      "Compliance",
+      "Risk"
+    ],
+    "routing_rationale": "Routed based on intent 'account_restriction' and risk factors.",
+    "reply_safety_label": "needs_legal_or_compliance_review"
+  },
+  {
+    "ticket_id": "T12",
+    "queues": [
+      "Developer Support"
+    ],
+    "routing_rationale": "Routed based on intent 'api_support' and risk factors.",
+    "reply_safety_label": "safe_to_send_after_review"
+  }
+]

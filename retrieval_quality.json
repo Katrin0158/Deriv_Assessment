@@ -1,0 +1,7 @@
+[
+  {
+    "ticket_id": "T06",
+    "issue": "Multilingual deposit mismatch query scored moderately against bank reconciliation article.",
+    "recommended_improvement": "Enhance multilingual embedding coverage for Hindi-English transliterated finance terms."
+  }
+]

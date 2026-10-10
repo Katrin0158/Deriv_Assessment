@@ -1,0 +1,210 @@
+{
+  "scored_tickets": [
+    {
+      "ticket_id": "T07",
+      "priority_score": 113,
+      "breakdown": {
+        "base": 40,
+        "customer_tier_bonus": 10,
+        "funds_blocked_bonus": 20,
+        "regulatory_legal_threat_bonus": 25,
+        "specialist_handling_bonus": 10,
+        "retrieval_weakness_bonus": 8
+      }
+    },
+    {
+      "ticket_id": "T06",
+      "priority_score": 63,
+      "breakdown": {
+        "base": 25,
+        "customer_tier_bonus": 0,
+        "funds_blocked_bonus": 20,
+        "regulatory_legal_threat_bonus": 0,
+        "specialist_handling_bonus": 10,
+        "retrieval_weakness_bonus": 8
+      }
+    },
+    {
+      "ticket_id": "T09",
+      "priority_score": 55,
+      "breakdown": {
+        "base": 25,
+        "customer_tier_bonus": 0,
+        "funds_blocked_bonus": 20,
+        "regulatory_legal_threat_bonus": 0,
+        "specialist_handling_bonus": 10,
+        "retrieval_weakness_bonus": 0
+      }
+    },
+    {
+      "ticket_id": "T02",
+      "priority_score": 53,
+      "breakdown": {
+        "base": 25,
+        "customer_tier_bonus": 10,
+        "funds_blocked_bonus": 0,
+        "regulatory_legal_threat_bonus": 0,
+        "specialist_handling_bonus": 10,
+        "retrieval_weakness_bonus": 8
+      }
+    },
+    {
+      "ticket_id": "T01",
+      "priority_score": 43,
+      "breakdown": {
+        "base": 25,
+        "customer_tier_bonus": 0,
+        "funds_blocked_bonus": 0,
+        "regulatory_legal_threat_bonus": 0,
+        "specialist_handling_bonus": 10,
+        "retrieval_weakness_bonus": 8
+      }
+    },
+    {
+      "ticket_id": "T11",
+      "priority_score": 43,
+      "breakdown": {
+        "base": 25,
+        "customer_tier_bonus": 0,
+        "funds_blocked_bonus": 0,
+        "regulatory_legal_threat_bonus": 0,
+        "specialist_handling_bonus": 10,
+        "retrieval_weakness_bonus": 8
+      }
+    },
+    {
+      "ticket_id": "T03",
+      "priority_score": 20,
+      "breakdown": {
+        "base": 10,
+        "customer_tier_bonus": 0,
+        "funds_blocked_bonus": 0,
+        "regulatory_legal_threat_bonus": 0,
+        "specialist_handling_bonus": 10,
+        "retrieval_weakness_bonus": 0
+      }
+    },
+    {
+      "ticket_id": "T04",
+      "priority_score": 20,
+      "breakdown": {
+        "base": 10,
+        "customer_tier_bonus": 0,
+        "funds_blocked_bonus": 0,
+        "regulatory_legal_threat_bonus": 0,
+        "specialist_handling_bonus": 10,
+        "retrieval_weakness_bonus": 0
+      }
+    },
+    {
+      "ticket_id": "T05",
+      "priority_score": 20,
+      "breakdown": {
+        "base": 10,
+        "customer_tier_bonus": 0,
+        "funds_blocked_bonus": 0,
+        "regulatory_legal_threat_bonus": 0,
+        "specialist_handling_bonus": 10,
+        "retrieval_weakness_bonus": 0
+      }
+    },
+    {
+      "ticket_id": "T10",
+      "priority_score": 20,
+      "breakdown": {
+        "base": 10,
+        "customer_tier_bonus": 0,
+        "funds_blocked_bonus": 0,
+        "regulatory_legal_threat_bonus": 0,
+        "specialist_handling_bonus": 10,
+        "retrieval_weakness_bonus": 0
+      }
+    },
+    {
+      "ticket_id": "T12",
+      "priority_score": 18,
+      "breakdown": {
+        "base": 10,
+        "customer_tier_bonus": 0,
+        "funds_blocked_bonus": 0,
+        "regulatory_legal_threat_bonus": 0,
+        "specialist_handling_bonus": 0,
+        "retrieval_weakness_bonus": 8
+      }
+    },
+    {
+      "ticket_id": "T08",
+      "priority_score": 3,
+      "breakdown": {
+        "base": 3,
+        "customer_tier_bonus": 0,
+        "funds_blocked_bonus": 0,
+        "regulatory_legal_threat_bonus": 0,
+        "specialist_handling_bonus": 0,
+        "retrieval_weakness_bonus": 0
+      }
+    }
+  ],
+  "top_5_expedited": [
+    {
+      "ticket_id": "T07",
+      "priority_score": 113,
+      "breakdown": {
+        "base": 40,
+        "customer_tier_bonus": 10,
+        "funds_blocked_bonus": 20,
+        "regulatory_legal_threat_bonus": 25,
+        "specialist_handling_bonus": 10,
+        "retrieval_weakness_bonus": 8
+      }
+    },
+    {
+      "ticket_id": "T06",
+      "priority_score": 63,
+      "breakdown": {
+        "base": 25,
+        "customer_tier_bonus": 0,
+        "funds_blocked_bonus": 20,
+        "regulatory_legal_threat_bonus": 0,
+        "specialist_handling_bonus": 10,
+        "retrieval_weakness_bonus": 8
+      }
+    },
+    {
+      "ticket_id": "T09",
+      "priority_score": 55,
+      "breakdown": {
+        "base": 25,
+        "customer_tier_bonus": 0,
+        "funds_blocked_bonus": 20,
+        "regulatory_legal_threat_bonus": 0,
+        "specialist_handling_bonus": 10,
+        "retrieval_weakness_bonus": 0
+      }
+    },
+    {
+      "ticket_id": "T02",
+      "priority_score": 53,
+      "breakdown": {
+        "base": 25,
+        "customer_tier_bonus": 10,
+        "funds_blocked_bonus": 0,
+        "regulatory_legal_threat_bonus": 0,
+        "specialist_handling_bonus": 10,
+        "retrieval_weakness_bonus": 8
+      }
+    },
+    {
+      "ticket_id": "T01",
+      "priority_score": 43,
+      "breakdown": {
+        "base": 25,
+        "customer_tier_bonus": 0,
+        "funds_blocked_bonus": 0,
+        "regulatory_legal_threat_bonus": 0,
+        "specialist_handling_bonus": 10,
+        "retrieval_weakness_bonus": 8
+      }
+    }
+  ]
+}

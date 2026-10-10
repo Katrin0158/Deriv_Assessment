@@ -1,0 +1,57 @@
+[
+  {
+    "ticket_id": "T07",
+    "customer_problem_summary": "High priority ticket T07 requiring specialist review.",
+    "open_questions": [
+      "What is the current status of account verification or ledger reconciliation?"
+    ],
+    "do_not_say": [
+      "Do not promise immediate withdrawal approval or disclose internal risk flags."
+    ],
+    "recommended_next_action": "Route to specialist queue and verify transaction logs."
+  },
+  {
+    "ticket_id": "T06",
+    "customer_problem_summary": "High priority ticket T06 requiring specialist review.",
+    "open_questions": [
+      "What is the current status of account verification or ledger reconciliation?"
+    ],
+    "do_not_say": [
+      "Do not promise immediate withdrawal approval or disclose internal risk flags."
+    ],
+    "recommended_next_action": "Route to specialist queue and verify transaction logs."
+  },
+  {
+    "ticket_id": "T09",
+    "customer_problem_summary": "High priority ticket T09 requiring specialist review.",
+    "open_questions": [
+      "What is the current status of account verification or ledger reconciliation?"
+    ],
+    "do_not_say": [
+      "Do not promise immediate withdrawal approval or disclose internal risk flags."
+    ],
+    "recommended_next_action": "Route to specialist queue and verify transaction logs."
+  },
+  {
+    "ticket_id": "T02",
+    "customer_problem_summary": "High priority ticket T02 requiring specialist review.",
+    "open_questions": [
+      "What is the current status of account verification or ledger reconciliation?"
+    ],
+    "do_not_say": [
+      "Do not promise immediate withdrawal approval or disclose internal risk flags."
+    ],
+    "recommended_next_action": "Route to specialist queue and verify transaction logs."
+  },
+  {
+    "ticket_id": "T01",
+    "customer_problem_summary": "High priority ticket T01 requiring specialist review.",
+    "open_questions": [
+      "What is the current status of account verification or ledger reconciliation?"
+    ],
+    "do_not_say": [
+      "Do not promise immediate withdrawal approval or disclose internal risk flags."
+    ],
+    "recommended_next_action": "Route to specialist queue and verify transaction logs."
+  }
+]
